@@ -12,7 +12,7 @@ Description: GMaps with short code example: Place in a post or a page: [gmap a="
 Author: Venturit
 Version: 1.0
 Author URI:  http://www.venturit.com
-Credits : Inspired by Google Map, Plugin by Shaon at http://www.intelisoftbd.com
+Credits : Inspired by Google Map, Plugin by Shaon at dub3 dot intelisoftbd dot com
 */
 //{gmap|address|width|height}
 function googleMap($atts,$content = null){
