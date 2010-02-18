@@ -1,5 +1,5 @@
 === GMap Generator ===
-Contributors: Venturit Inc, Inspired by google map plugin by Shaon at 
+Contributors: Venturit Inc.
 Donate link: 
 Tags: google, map, gmap
 Requires at least: 1.0
@@ -20,4 +20,8 @@ a = complete address
 h = height
 w = width
 
-Credits : Inspired by Google Map, Plugin by Shaon at http://www.intelisoftbd.com
+Plugin URI: http://www.venturit.org
+Author: Venturit Inc.
+Version: 1.0
+Author URI:  http://www.venturit.com
+Credits : Inspired by Google Map, Plugin by Shaon at dub3 dot intelisoftbd dot com
